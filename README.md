@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Health Myth Buster Banner](https://img.shields.io/badge/AI%20for%20Good-Health%20Misinformation-purple?style=for-the-badge&logo=snowflake)
-![Hackathon](https://img.shields.io/badge/Hack2Skill-2025%20Winner-gold?style=for-the-badge&logo=trophy)
 ![Powered by](https://img.shields.io/badge/Powered%20by-Snowflake%20Cortex-29B5E8?style=for-the-badge&logo=snowflake)
 
 ### 🚀 Combat Medical Misinformation with AI-Powered Fact-Checking
